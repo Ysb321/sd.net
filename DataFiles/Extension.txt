@@ -1,0 +1,3 @@
+https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
+https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
+https://github.com/Mikubill/sd-webui-controlnet/
