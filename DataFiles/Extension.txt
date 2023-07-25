@@ -4,4 +4,4 @@ https://github.com/Bing-su/adetailer
 https://github.com/Ysb321/sd-infinite-image-browsing
 https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
 https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
-https://github.com/Mikubill/sd-webui-controlnet/
+https://github.com/Mikubill/sd-webui-controlnet
