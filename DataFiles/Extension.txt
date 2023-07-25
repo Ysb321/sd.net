@@ -1,4 +1,3 @@
-https://github.com/continue-revolution/sd-webui-animatediff
 https://github.com/Bing-su/adetailer
 https://github.com/Ysb321/sd-infinite-image-browsing
 https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
