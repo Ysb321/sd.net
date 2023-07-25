@@ -1,3 +1,5 @@
+https://github.com/YKefasu/sd-artists-ui-tweak
+https://github.com/Iyashinouta/sd-model-downloader
 https://github.com/Bing-su/adetailer
 https://github.com/Ysb321/sd-infinite-image-browsing
 https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
