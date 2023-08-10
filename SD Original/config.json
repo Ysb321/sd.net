@@ -132,7 +132,7 @@
     "quicksettings_list": [
         "sd_model_checkpoint",
         "sd_vae",
-        "sd_model_refiner",
+        "sd_model_refiner"
     ],
     "hidden_tabs": [],
     "ui_tab_reorder": "From Text, From Image, Process Image, Infinite image browsing",
