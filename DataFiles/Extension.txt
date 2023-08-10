@@ -9,3 +9,4 @@ https://github.com/richrobber2/canvas-zoom
 https://github.com/fkunn1326/openpose-editor
 https://github.com/kohya-ss/sd-webui-additional-networks
 https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
+https://github.com/Mikubill/sd-webui-controlnet
