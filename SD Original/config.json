@@ -309,7 +309,7 @@
     "image_browser_scoring_type": "aesthetic_score",
     "image_browser_show_progress": true,
     "image_browser_info_add": false,
-    "tac_tagFile": "danbooru.csv",
+    "tac_tagFile": "e621.csv",
     "tac_active": true,
     "tac_activeIn.txt2img": true,
     "tac_activeIn.img2img": true,
