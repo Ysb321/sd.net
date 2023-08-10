@@ -133,7 +133,6 @@
         "sd_model_checkpoint",
         "sd_vae",
         "sd_model_refiner",
-        "initial_noise_multiplier"
     ],
     "hidden_tabs": [],
     "ui_tab_reorder": "From Text, From Image, Process Image, Infinite image browsing",
@@ -257,7 +256,7 @@
     "disable_all_extensions": "none",
     "sd_checkpoint_hash": null,
     "clip_skip": 2,
-    "sd_checkpoint": "DreamShaper_7_pruned.safetensors",
+    "sd_checkpoint": "",
     "ldsr_steps": 100,
     "ldsr_cached": false,
     "SWIN_tile": 192,
