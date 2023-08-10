@@ -14,7 +14,7 @@
     "sd_disable_ckpt": false,
     "sd_backend": "original",
     "cross_attention_optimization": "Scaled-Dot-Product",
-    "cross_attention_options": ["SDP disable memory attention"],
+    "cross_attention_options": [],
     "sub_quad_q_chunk_size": 512,
     "sub_quad_kv_chunk_size": 512,
     "sub_quad_chunk_threshold": 80,
