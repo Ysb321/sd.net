@@ -1,6 +1,6 @@
 {
     "sd_checkpoint_autoload": true,
-    "sd_model_checkpoint": "model.safetensors",
+    "sd_model_checkpoint": "",
     "sd_model_refiner": "None",
     "sd_checkpoint_cache": 0,
     "sd_vae_checkpoint_cache": 0,
