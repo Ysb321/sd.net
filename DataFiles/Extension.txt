@@ -4,3 +4,4 @@ https://github.com/Ysb321/sd-infinite-image-browsing
 https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
 https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
 https://github.com/Iyashinouta/sd-model-downloader
+https://github.com/Ysb321/sd-roooop
